@@ -76,6 +76,8 @@ source $ZSH/oh-my-zsh.sh
 
 export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
 
+export EDITOR="nvim"
+
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
